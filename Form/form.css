@@ -1,0 +1,19 @@
+.backg{
+   display: flex;
+   justify-content: center; 
+   align-items: center;
+}
+
+#post{
+    background-color: green;
+    border-radius: 25px;
+}
+
+.back2{
+    background-color: rgb(199, 204, 199);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 25px;
+}
