@@ -1,0 +1,29 @@
+.imgbg {
+    background-color: #f8fafe;
+    /* padding: 10px; */
+    color: #2d3436;
+    border: 1px solid transparent;
+    width: 450px;
+    transition: transform .2s; /* Animation */
+    border-radius: 17px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+}
+
+.info{
+    text-align: right;
+
+    
+}
+
+#star {
+    color: gold;
+}
+
+.specs {
+    padding-bottom: 45px;
+}
+
+

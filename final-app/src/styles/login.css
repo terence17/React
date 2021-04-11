@@ -1,0 +1,31 @@
+.bckg {
+    margin: auto;
+    background-color: rgb(247, 235, 189);
+    width: 260px;
+    height: 200px;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}
+
+.login{
+    padding-left: 0px;
+}
+
+.input{
+    margin-bottom: 5px;
+    width: 230px;
+}
+
+.btnx{
+    padding-left: 30px;
+    width: 238px;
+    text-align: center;
+}
+
+.or{
+    /* padding-left: 100px; */
+    text-align: center;
+    color: lightgrey;
+}
